@@ -1,0 +1,16 @@
+\t (02:51:48) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:51:48)     Journal start - Wed Jul 17 13:45:38 2019
+\t (02:51:48)         Host=USER-PC User=user Pid=5748 CPUs=4
+\t (02:51:48) CmdLine= allegro.exe -p .
+\t (02:51:48) 
+\d (02:51:48) Design opened: C:/Users/user/Desktop/workspace/layout/demoa.brd
+\i (02:51:48) generaledit 
+\i (02:51:52) prepopup 1126.5 888.5
+\i (02:51:53) pick grid -211.4 551.0
+\t (02:51:53) last pick:  -200.0 550.0
+\i (02:53:24) open 
+\i (02:53:45) fillin "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demob\demob2.brd"
+\i (02:53:45) cd "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demob"
+\t (02:53:45) Opening existing design...
+\i (02:53:45) trapsize 108
+\t (02:53:45)     Journal end - Wed Jul 17 13:47:35 2019
